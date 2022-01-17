@@ -1,2 +1,2 @@
-# Dio-Desafio-Reposit-rio-GitHub
-Repositório próprio com minha solução.
+# Desadio Dio- Projeto Repositório
+Desafio de criar um repositório para compartilhar meu progresso.
